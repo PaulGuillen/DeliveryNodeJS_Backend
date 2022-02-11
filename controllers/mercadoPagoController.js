@@ -7,7 +7,7 @@ const pushNotificationController = require('../controllers/pushNotificationContr
 
 mercadoPago.configure({
     sandbox : true,
-    access_token : 'TEST-4659571356318640-020116-69ac61dc680956253853fe7e4fe86ba7-666034814'
+    access_token : 'YOUR_ACCESS_TOKEN_FROM_MERCADO_PAGO'
 })
 
 module.exports = {
