@@ -24,7 +24,7 @@ module.exports = {
             port: 443,
             headers: {
                 'Content-Type': 'application/json',
-                'Authorization': 'key=AAAAohNDgus:APA91bGoteFysYY3WKLsh9_ieKqjT1bRBC4SI5ZGlwq0zJhKef-bTNlzdDxKa8GvcuagkuU9gXTbXALK3_8-CoeBNwUWm4BBJsUgey3F9A5kXUPuHB08kql4eQSSALIiCRtZT8ppGcYX'
+                'Authorization': 'key=YOUR_API_AUTHORIZATION_FROM_FIRESTORE_CLOUD_MESSAGING'
             }
         }
 
@@ -62,7 +62,7 @@ module.exports = {
             port: 443,
             headers: {
                 'Content-Type': 'application/json',
-                'Authorization': 'key=AAAAohNDgus:APA91bGoteFysYY3WKLsh9_ieKqjT1bRBC4SI5ZGlwq0zJhKef-bTNlzdDxKa8GvcuagkuU9gXTbXALK3_8-CoeBNwUWm4BBJsUgey3F9A5kXUPuHB08kql4eQSSALIiCRtZT8ppGcYX'
+                'Authorization': 'key=YOUR_API_AUTHORIZATION_FROM_FIRESTORE_CLOUD_MESSAGING'
             }
         }
 
