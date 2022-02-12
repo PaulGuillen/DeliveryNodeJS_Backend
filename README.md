@@ -32,7 +32,7 @@ _Necesitas tener instalado PostgreSql para las consultas de SQL, Postman para la
     "socket.io": "^2.4.1",
     "util": "^0.12.4"
 ```
-### Estrucutra del Proyecto ⌨️
+### Estructura del Proyecto ⌨️
 
 _Como se puede apreciar en la imagen para ejecutar el proyecto deberemos escribir "node server.js", y el mensaje de exito es "Aplicacion de NodeJs 3000 Iniciado..."._
 
