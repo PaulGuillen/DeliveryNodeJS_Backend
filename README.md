@@ -11,7 +11,7 @@ Mira **Pre-requisitos** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
-_Necesitas tener instalado PostgreSql para las consultas de SQL, Postman para las consultas del servidor, Integracion con SocketIO para google maps y Firebase Storage para el almacenado de las imagenes._
+_Necesitas tener instalado PostgreSql para las consultas de SQL, Postman para las consultas del servidor, Integración con SocketIO para google maps y Firebase Storage para el almacenado de las imagenes._
 
 ```
     "@google-cloud/storage": "^5.16.1",
