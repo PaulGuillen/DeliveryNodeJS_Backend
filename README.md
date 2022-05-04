@@ -1,6 +1,6 @@
 # Backend Delivery 
 
-_En esta ocasión veremos como se trabajo la parte backend del Proyecto DeliveryAppKotlin, el cual pueden buscarlo en mi repositorio, ademas de ver cuales es la estrucutra de este proyecto._
+_En esta ocasión veremos como se trabajó la parte backend del Proyecto DeliveryAppKotlin, el cual pueden buscarlo en mi repositorio, ademas de ver cuales es la estrucutra de este proyecto._
 
 ## Comenzando 🚀
 
