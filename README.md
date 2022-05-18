@@ -13,6 +13,8 @@ Mira **Pre-requisitos** para conocer como desplegar el proyecto.
 
 _Necesitas tener instalado PostgreSql para las consultas de SQL, Postman para las consultas del servidor, Integración con SocketIO para google maps y Firebase Storage para el almacenado de las imagenes._
 
+_[AppDeliveryApp](https://github.com/PaulGuillen/DeliveryKotlinApp)_
+
 ```
     "@google-cloud/storage": "^5.16.1",
     "bcryptjs": "^2.4.3",
@@ -39,6 +41,18 @@ _Como se puede apreciar en la imagen para ejecutar el proyecto deberemos escribi
 <p align="center">
   <img src="https://i.postimg.cc/W1xSN3p6/1.png"/>
 </p>
+
+<p align="center">
+  <img src="https://i.postimg.cc/fbVwn82g/2.png"/>
+</p>
+
+
+## Video 📄
+
+_En este video se mostrará las demas funcionalidades de la app._
+
+
+[BackEndApp-Video](https://user-images.githubusercontent.com/43099030/169104200-cbe64956-da83-4dab-8e2c-bc23617c165f.mp4)
 
 ## Autor ✒️
 
