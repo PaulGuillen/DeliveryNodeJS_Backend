@@ -37,14 +37,10 @@ _Necesitas tener instalado PostgreSql para las consultas de SQL, Postman para la
 _Como se puede apreciar en la imagen para ejecutar el proyecto deberemos escribir "node server.js", y el mensaje de exito es "Aplicacion de NodeJs 3000 Iniciado..."._
 
 <p align="center">
-  <img src="https://i.postimg.cc/xdJxq0CW/1.png"/>
+  <img src="https://i.postimg.cc/W1xSN3p6/1.png"/>
 </p>
 
 ## Autor ✒️
 
 * **Paul Guillen Acuña** - *Mi Repositorio* - [PaulGuillen](https://github.com/PaulGuillen?tab=repositories)
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia (MIT License) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
