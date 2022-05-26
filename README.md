@@ -49,7 +49,7 @@ _Como se puede apreciar en la imagen para ejecutar el proyecto deberemos escribi
 
 ## Video 📄
 
-_En este video se mostrará las demas funcionalidades de la app._
+_En este video se mostrará las demas funcionalidades de la app_
 
 
 [BackEndApp-Video](https://user-images.githubusercontent.com/43099030/169104200-cbe64956-da83-4dab-8e2c-bc23617c165f.mp4)
