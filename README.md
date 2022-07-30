@@ -9,7 +9,7 @@ _Comenzaremos explicando los requisitos para ejecutar el proyecto._
 
 ### Pre-requisitos 📋
 
-_Necesitas tener instalado PostgreSql para las consultas de SQL, Postman para las consultas del servidor, Integración con SocketIO para google maps y Firebase Storage para el almacenado de las imagenes_
+_Necesitas tener instalado PostgreSql para las consultas de SQL, Postman para las consultas del servidor, Integración con SocketIO para google maps y Firebase Storage para el almacenado de las imagenes._
 
 _[AppDeliveryApp](https://github.com/PaulGuillen/DeliveryKotlinApp)_
 
