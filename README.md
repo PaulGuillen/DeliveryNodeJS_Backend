@@ -6,8 +6,6 @@ _En esta ocasión veremos como se trabajó la parte backend del Proyecto Deliver
 
 _Comenzaremos explicando los requisitos para ejecutar el proyecto._
 
-Mira **Pre-requisitos** para conocer como desplegar el proyecto.
-
 
 ### Pre-requisitos 📋
 
